@@ -18,6 +18,7 @@ Date: 2014-05-03
 + added jamming transmitter func for radios (enemy radio must in range 800 m) Dimitry
 + changed (decrease) radio range in valleys Dimitry
 + changed display lighting.now you can change it man. by night Valeriy
++ modified dll plugin for ts 3.0.14 Dimitry
 
 
 + ported to Arma 2 by Dimitry, Valeriy
