@@ -3,6 +3,7 @@ Task Force radio for Arma 2
 Version 0.9.1b: org. sources are from TFR 0.9.0 Michail Nikolaev http://radio.task-force.ru/en
 
 Date: 2014-05-03
++ added example mission Valeriy
 + changed all russian radios now with cyrillic letters
 + adding УВБ-76 station, KL 42-5,Sozvezdie comms gear, 5th MRB,R-159,R-438-M satcom kit Dimitry
 + Glonass-GPS device (only available in AMT version) Dimitry
