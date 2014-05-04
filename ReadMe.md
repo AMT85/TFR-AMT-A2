@@ -10,6 +10,12 @@ Only a few for AMT85 ;-).
 
 Have fun with this stuff and do NOT delete the credit file in the addon folder!
 
+Date: 2014-05-05
++ added model for russian radio backpack (Afghanistan and new russian forces). Classnames see classnames list Buzs
++ fixed model R-438-M Buzs
++ fixed colour of the R-159 Buzs
++ changed size of the backback belt Buzs
+
 Date: 2014-05-04
 + added new feature: batteries can discharge after a while Valeriy
 + added recharger station for radio batteries Valeriy
