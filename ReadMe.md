@@ -10,6 +10,13 @@ Only a few for AMT85 ;-).
 
 Have fun with this stuff and do NOT delete the credit file in the addon folder!
 
+Date: 2014-05-04
++ moved Glonass-GPS device into AMT-Function-Addon Dimitry
++ changed encryption for all radios Dimitry
++ fixed error: broken pipe when JIP players joined the ts Dimitry
++ modified satcom function Dimitry
++ changed GetTickCount func for ts plugin Dimitry
+
 Date: 2014-05-03
 + added example mission Valeriy
 + changed all russian radios now with cyrillic letters
