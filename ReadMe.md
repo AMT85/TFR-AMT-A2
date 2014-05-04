@@ -11,6 +11,12 @@ Only a few for AMT85 ;-).
 Have fun with this stuff and do NOT delete the credit file in the addon folder!
 
 Date: 2014-05-04
++ added new feature: batteries can discharge after a while Valeriy
++ added recharger station for radio batteries Valeriy
++ added radio batteries Valeriy
++ added texture for radio batteries Buzs
++ added promotion ingame video Valeriy
++ fixed example mission,added a game logic Valeriy
 + moved Glonass-GPS device into AMT-Function-Addon Dimitry
 + changed encryption for all radios Dimitry
 + fixed error: broken pipe when JIP players joined the ts Dimitry
