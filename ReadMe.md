@@ -13,6 +13,9 @@ Sources not now available.
 NOT delete the credit file in the addon folder!
 
 Date: 2014-05-05
++ added function for arrayparams in description.ext to discharge radio battery yes/no Dimitry
++ added 2x new mobile radio antennas Dimitry
++
 + added model for russian radio backpack (Afghanistan and new russian forces). Classnames see classnames list Buzs
 + fixed model R-438-M Buzs
 + fixed colour of the R-159 Buzs
