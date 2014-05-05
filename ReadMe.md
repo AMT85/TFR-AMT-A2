@@ -10,7 +10,11 @@ Only a few for AMT85 ;-).
 
 Have fun with this stuff and do NOT delete the credit file in the addon folder!
 
+
 Date: 2014-05-05
++ merge dev branch with stable release to 0.9.1 Dimitry
++ see changeLog for details Dimitry
+
 + added model for russian radio backpack (Afghanistan and new russian forces). Classnames see classnames list Buzs
 + fixed model R-438-M Buzs
 + fixed colour of the R-159 Buzs
