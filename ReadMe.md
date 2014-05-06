@@ -1,6 +1,6 @@
 Task Force radio for Arma 2
 
-Version 0.9.1b: org. sources are from TFR 0.9.0 Michail Nikolaev http://radio.task-force.ru/en
+Version 0.9.1b: org. sources are from TFR 0.9.1 Michail Nikolaev http://radio.task-force.ru/en
 
 Remember! If you used this Task Force Radio: is the idea and creativity from Michail!
 This is only a ported version from Arma 3 to Arma 2 by the AMT85 community.
@@ -11,6 +11,7 @@ Sources not now available.
 
 
 NOT delete the credit file in the addon folder!
+
 
 Date: 2014-05-06
 
