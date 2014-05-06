@@ -12,6 +12,10 @@ Sources not now available.
 
 NOT delete the credit file in the addon folder!
 
+Date: 2014-05-06
+
++ added link to AMT85 server repository sync for players Pavel
+
 
 Date: 2014-05-05
 
