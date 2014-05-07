@@ -12,6 +12,9 @@ Sources not now available.
 
 NOT delete the credit file in the addon folder!
 
+Date: 2014-05-07
+Prepare the repository Dimitry and Valeriy
+
 Date: 2014-05-06
 Announcement: Release at 2014-05-09 Dimitry
 
