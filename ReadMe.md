@@ -13,7 +13,7 @@ Pavel [AMT85] Community leader and project leader
 2014-06-02 by Dimitry and Valeriy
 
 - updated to 0.9.3
-- fully server site addon function (no need more client-site addon)
+- fully server site addon function (no need for client-site addon)
 - created teamspeak plugin 1.0
 - created new setup routine (more easier to install the ts plugin)
 - alot of changes
