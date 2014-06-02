@@ -17,5 +17,5 @@ Pavel [AMT85] Community leader and project leader
 - created teamspeak plugin 1.0
 - created new setup routine (more easier to install the ts plugin)
 - alot of changes
-- added user documentation by Buzs
+- added user documentation (russian/english) by Buzs
 
