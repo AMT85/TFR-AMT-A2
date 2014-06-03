@@ -10,6 +10,12 @@ Pavel [AMT85] Community leader and project leader
 
 - amt85-stuff@mail.ru
 
+- All Rights Reserved.
+
+- Licensed under CC BY-NC-SA 4.0;
+- Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+- <http://creativecommons.org/licenses/by-nc-sa/4.0/>
+
 2014-06-02 by Dimitry and Valeriy
 
 - updated to 0.9.3
