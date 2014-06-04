@@ -16,6 +16,13 @@ Pavel [AMT85] Community leader and project leader
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
+2014-06-04 by Dimitry
+
+- added long range support for all vehicles with radios
+- fixed long range support for BTR-60
+- added US  SINCGARS RT-1439
+- fixed texture for AN/PRC-68 by Buzs
+
 2014-06-02 by Dimitry and Valeriy
 
 - updated to 0.9.3
