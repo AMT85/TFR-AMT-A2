@@ -16,6 +16,14 @@ Pavel [AMT85] Community leader and project leader
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
+2014-08-014 by Valeriy
+
+- released version 1.1 by Dimitry and Valeriy
+- see internal ChangeLog for dwtails
+- fixed problems with BIS patch 1.63
+
+* do not forget use the AMT85-sync tool to update the new version 1.1
+
 2014-06-04 by Dimitry
 
 - added long range support for all vehicles with radios
